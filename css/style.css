@@ -2,4 +2,36 @@
   font-style: Verdana;
   background-color: black;
   text-align: center;
+  color: white;
+  font-size: 21px
+  ;
+}
+
+.link {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  color: gray;
+}
+
+video {
+  object-fit: initial;
+  width: auto;
+  height: 750;
+}
+
+.footer p {
+    text-align: right;
 }
